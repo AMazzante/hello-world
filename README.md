@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Shit ! Got a torticolis today !
+Hi Poulet, see you soon !
